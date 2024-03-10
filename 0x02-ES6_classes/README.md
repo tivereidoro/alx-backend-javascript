@@ -9,7 +9,7 @@
 ## 0x02. ES6 CLASSES
 <img src="https://img.shields.io/badge/OOP-306998"> &nbsp; <img src="https://img.shields.io/badge/ES6-306998"> &nbsp; <img src="https://img.shields.io/badge/JavaScript-eed718">
 
-<img align="center" alt="header" width="80%" height="280" src="https://github.com/tivereidoro/alx-backend-javascript/assets/105525310/1e69dbc7-f228-4c55-88b2-ea440351b12b"/>
+<img align="center" alt="header" src="https://github.com/tivereidoro/alx-backend-javascript/assets/105525310/1e69dbc7-f228-4c55-88b2-ea440351b12b"/>
 </div>
 
 ---
@@ -17,7 +17,7 @@
 * [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 * [Metaprogramming](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/#symbolspecies)
 
-### Requirements 🏛️
+### Requirements
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 * Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`
 * All your files should end with a new line
