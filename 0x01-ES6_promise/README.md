@@ -9,7 +9,7 @@
 ## 0x01. ES6 PROMISES
 <img src="https://img.shields.io/badge/ES6-306998"> &nbsp; <img src="https://img.shields.io/badge/JavaScript-eed718">
 
-<img align="center" alt="header" width="80%" src="https://github.com/tivereidoro/alx-backend-javascript/assets/105525310/d96f99a9-89d8-4d88-aaef-50d9f74f7221"/>
+<img align="center" alt="header" src="https://github.com/tivereidoro/alx-backend-javascript/assets/105525310/d96f99a9-89d8-4d88-aaef-50d9f74f7221"/>
 </div>
 
 ---
